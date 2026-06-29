@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+
+# SQL Server cache
+SQL/.vs/
+
+# Power BI temporary files
+*.pbix.autosave
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
