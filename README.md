@@ -53,6 +53,10 @@ Australian-Airline-Performance-Analysis
 │
 ├── Power BI
 │   └── Australia_Airline_Performance_Analysis_Dashboards.pbix
+    └── Dashboards
+        └── Airline_And_Route_Analysis.png
+        └── Airport_Operations_And_Trends.png
+        └── Executive_Summary.png
 │
 ├── Findings_Report.pdf
 │
